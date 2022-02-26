@@ -1,0 +1,10 @@
+/* header */
+header{
+    border-bottom: 1px solid var(--secondary-color);
+}
+
+/* avatar */
+.avatar-xsm{
+    width: 2.5rem;
+    height: 2.5rem;
+}
